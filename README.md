@@ -28,11 +28,18 @@ Below you shall find a sample input:
 Sample input:
 
 2
+
 epsilon = 1.0e-8
+
 order = 2
+
 coeff 2 = 2.0 0.0
+
 coeff 1 = 5.0 0.0
+
 coeff 0 = 3.0 0.0
+
 initial = 1.0 -1.0
+
 
 The blanks around the equal (=) sign are intentional and mandatory

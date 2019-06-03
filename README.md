@@ -24,7 +24,6 @@ order)
 
 • An initial value z with which to start the computation
 
-Below you shall find a sample input:
 Sample input:
 
 2

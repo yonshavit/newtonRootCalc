@@ -1,5 +1,5 @@
 # newtonRootCalc
-IA program in x86 assembly language that finds a single root of a polynomial of complex coefficients, written for CS Arch class.
+A program in x86 assembly language that finds a single root of a polynomial of complex coefficients, written for CS Arch class.
 This program finds a point z 
 where:
 c0 + c1 · z + c2 · z
